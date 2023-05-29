@@ -1,4 +1,13 @@
-### Hi there 👋
+### Moin! I'm Timur 👋
+I'm a graduate Data Science student interested in all things ML & DL 🧑🏻‍🎓 Currently working as a research intern at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/)
+
+Feel free to check out...
+<ul>
+  <li>🔎 my <a href="https://www.linkedin.com/in/tmcarstensen/">LinkedIn</a></li>
+  <li>✏️ my <a href="https://github.com/timurcarstensen/master-seminar-thesis">Seminar Thesis</li>
+  <li>☕ my public repositories ⬇️ </li>
+</ul>
+
 
 <!--
 **timurcarstensen/timurcarstensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
