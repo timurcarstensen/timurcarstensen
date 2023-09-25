@@ -1,5 +1,5 @@
 ### Moin! I'm Timur 👋
-I'm a graduate Data Science student interested in all things ML & DL 🧑🏻‍🎓 Currently working as a research intern at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/)
+I'm a graduate Data Science student interested in all things ML & DL 🧑🏻‍🎓 Currently working on my master's thesis at the [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/)
 
 Feel free to check out...
 <ul>
