@@ -4,7 +4,7 @@ I'm a graduate Data Science student interested in all things ML & DL 🧑🏻‍
 Feel free to check out...
 <ul>
   <li>🔎 my <a href="https://www.linkedin.com/in/tmcarstensen/">LinkedIn</a></li>
-  <li>✏️ my <a href="https://github.com/timurcarstensen/master-seminar-thesis">Seminar Thesis</li>
+<!--   <li>✏️ my <a href="https://github.com/timurcarstensen/master-seminar-thesis">Seminar Thesis</li> -->
   <li>☕ my public repositories ⬇️ </li>
 </ul>
 
